@@ -5,17 +5,21 @@
   
  **Vlad Kelar** | <img src="https://img.shields.io/badge/LeadEx-Programmer-blue" alt="Programmer" >
   
-  <img align="left" alt="Vlad's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Vlad's LinkedIn" width="22px" src="https://vk-codes.com/assests/images/icons/linkedin.png" />
 </a>
 <a href="https://www.linkedin.com/in/LeadEx/">
-  <img align="left" alt="Vlad's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Vlad's Discord" width="22px" src="https://vk-codes.com/assests/images/icons/discord.png" />
 </a>
-<a href="https://www.linkedin.com/in/LeadEx/">
-  <img align="left" alt="Vlad's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://discord.com/invite/2YgAt3QxXn">
+  <img align="left" alt="Vlad's | Trello" width="22px" src="https://vk-codes.com/assests/images/icons/trello.png" />
 </a>
-<a href="https://www.linkedin.com/in/LeadEx/">
-  <img align="left" alt="Vlad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://trello.com/leadex13/activity">
+  <img align="left" alt="Vlad's Steam" width="22px" src="https://vk-codes.com/assests/images/icons/steam.png" />
 </a>
+<a href="https://steamcommunity.com/id/LeadEx">
+  <img align="left" alt="Vlad's Patreon" width="22px" src="https://vk-codes.com/assests/images/icons/patreon.png" />
+</a>
+<a href="https://www.patreon.com/LeadEx">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LeadEx13)
 
