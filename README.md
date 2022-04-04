@@ -43,6 +43,8 @@ i am also an open-source enthusiast and maintainer. i am learning a lot from the
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/css.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/js.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/linux.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/ue.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/unity.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/clion.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/pycharm.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/datagrip.png"></a>
@@ -51,8 +53,6 @@ i am also an open-source enthusiast and maintainer. i am learning a lot from the
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/IntelliJ.png" /></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/android.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/sql.png"></a>
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/ue.png"></a>
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/unity.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/visual.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/eclipse.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/git.png"></a>
