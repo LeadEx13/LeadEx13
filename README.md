@@ -33,7 +33,7 @@ i am also an open-source enthusiast and maintainer. i am learning a lot from the
 
 **languages and tools:**  
 
-<code><img height="20" src="https://vk-codes.com/assests/images/icons/IntelliJ.png" alt=""></code>
+<code><img height="20" src="https://vk-codes.com/assests/images/icons/IntelliJ.png" href=""></code>
 <code><img height="20" src="https://vk-codes.com/assests/images/icons/android.png"></code>
 <code><img height="20" src="https://vk-codes.com/assests/images/icons/c.png"></code>
 <code><img height="20" src="https://vk-codes.com/assests/images/icons/clion.png"></code>
