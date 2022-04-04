@@ -22,21 +22,19 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=LeadEx13)
-
 <br />
 
-hi, i'm [Vlad Kelar](https://vk-codes.com), a passionate self-taught full stack developer and a freelance software engineer from Israel. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Vlad Kelar](https://vk-codes.com), a passionate self-taught full stack developer and a freelance software engineer from Israel. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i am learning a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I am learning a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:angerag3@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any freelance work? do reach, [Email](mailto:angerag3@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
 
-**languages and tools:**  
+**Languages & Tools:**  
 
 
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/cpp.png"></a>
@@ -63,17 +61,17 @@ i am also an open-source enthusiast and maintainer. i am learning a lot from the
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/git.png"></a>
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/LeadEx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<div align="center">
 
-### 📈 my github stats
+### 📈 My GitHub stats
 | Github Stats | Top Languages | GitHub Streak |
 | --- | --- | --- |
 | ![My's github stats](https://awesome-github-stats.azurewebsites.net/user-stats/LeadEx13?cardType=github&theme=gotham&Background=000000&Text=DDDDDD&Border=000000) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeadEx13&show_icons=true&theme=gotham) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeadEx13&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000) |
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=LeadEx13) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/LeadEx13) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LeadEx13)
 
-
-
-
+</div>
