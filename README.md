@@ -3,6 +3,8 @@
   
   
  **Vlad Kelar** | <img src="https://img.shields.io/badge/LeadEx-Programmer-blue" alt="Programmer" >
+ 
+ 
  <a href="https://www.linkedin.com/in/LeadEx/">
   <img align="left" alt="Vlad's LinkedIn" width="27px" src="https://vk-codes.com/assests/images/icons/linkedin.png" />
 </a>
