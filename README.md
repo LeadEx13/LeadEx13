@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I am learning a lot from the
 **Languages & Tools:**  
 
 
-<a href="#"><img draggable=”false” height="25" src="https://vk-codes.com/assests/images/icons/cpp.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/cpp.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/c.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/csh.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/python.png"></a>
