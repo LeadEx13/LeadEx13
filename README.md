@@ -67,13 +67,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <div align="center">
 
 ### 📈 My GitHub stats
-| Github Stats | Top Languages |
-| --- | --- | 
+| Github Stats | Top Languages | GitHub Streak |
+| --- | --- | --- |
+| ![My's github stats](https://awesome-github-stats.azurewebsites.net/user-stats/LeadEx13?cardType=github&theme=gotham&Background=000000&Text=DDDDDD&Border=000000) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeadEx13&hide=TeX&layout=compact&theme=gotham) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeadEx13&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000) |
 
-| ![My's github stats](https://awesome-github-stats.azurewebsites.net/user-stats/LeadEx13?cardType=github&theme=gotham&Background=000000&Text=DDDDDD&Border=000000) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeadEx13&hide=TeX&layout=compact&theme=gotham) |
-| GitHub Streak |
-| --- |
-| ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeadEx13&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000) |
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=LeadEx13) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/LeadEx13) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LeadEx13)
 
 </div>
