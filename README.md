@@ -1,25 +1,24 @@
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/LeadEx/">
+### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   
   
  **Vlad Kelar** | <img src="https://img.shields.io/badge/LeadEx-Programmer-blue" alt="Programmer" >
-  
-  <img align="left" alt="Vlad's LinkedIn" width="22px" src="https://vk-codes.com/assests/images/icons/linkedin.png" />
-</a>
-<a href="https://www.linkedin.com/in/LeadEx/">
-  <img align="left" alt="Vlad's Discord" width="22px" src="https://vk-codes.com/assests/images/icons/discord.png" />
+ <a href="https://www.linkedin.com/in/LeadEx/">
+  <img align="left" alt="Vlad's LinkedIn" width="27px" src="https://vk-codes.com/assests/images/icons/linkedin.png" />
 </a>
 <a href="https://discord.com/invite/2YgAt3QxXn">
-  <img align="left" alt="Vlad's | Trello" width="22px" src="https://vk-codes.com/assests/images/icons/trello.png" />
+  <img align="left" alt="Vlad's Discord" width="27px" src="https://vk-codes.com/assests/images/icons/discord.png" />
 </a>
 <a href="https://trello.com/leadex13/activity">
-  <img align="left" alt="Vlad's Steam" width="22px" src="https://vk-codes.com/assests/images/icons/steam.png" />
+  <img align="left" alt="Vlad's | Trello" width="27px" src="https://vk-codes.com/assests/images/icons/trello.png" />
 </a>
 <a href="https://steamcommunity.com/id/LeadEx">
-  <img align="left" alt="Vlad's Patreon" width="22px" src="https://vk-codes.com/assests/images/icons/patreon.png" />
+  <img align="left" alt="Vlad's Steam" width="27px" src="https://vk-codes.com/assests/images/icons/steam.png" />
 </a>
 <a href="https://www.patreon.com/LeadEx">
+  <img align="left" alt="Vlad's Patreon" width="27px" src="https://vk-codes.com/assests/images/icons/patreon.png" />
+</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LeadEx13)
 
