@@ -68,8 +68,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ### 📈 My GitHub stats
 | Github Stats  | GitHub Streak |
-| --- | --- |
-| ![My's github stats](https://awesome-github-stats.azurewebsites.net/user-stats/LeadEx13?cardType=github&theme=gotham&Background=000000&Text=DDDDDD&Border=000000) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeadEx13&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000) |
+| --- | --- | 
+| ![My's github stats](https://github-readme-stats.vercel.app/api?username=LeadEx13?cardType=github&show_icons=true&theme=gotham&Background=000000&Text=DDDDDD&Border=000000) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeadEx13&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000) |
 
 | Top Languages |
 | --- |
