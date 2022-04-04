@@ -66,7 +66,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ### 📈 my github stats
 | Github Stats | Top Languages |
 | --- | --- |
-| (https://awesome-github-stats.azurewebsites.net/user-stats/LeadEx13?cardType=github&theme=merko&Background=000000&Text=DDDDDD) | (https://github-readme-stats.vercel.app/api/top-langs/?username=LeadEx13&show_icons=true&theme=gotham) | 
+| ![My's github stats](https://awesome-github-stats.azurewebsites.net/user-stats/LeadEx13?cardType=github&theme=merko&Background=000000&Text=DDDDDD) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeadEx13&show_icons=true&theme=gotham) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeadEx13&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000) |
+
 
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=LeadEx13&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000" alt="LeadEx" />
 
