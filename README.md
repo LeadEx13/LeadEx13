@@ -33,28 +33,29 @@ i am also an open-source enthusiast and maintainer. i am learning a lot from the
 
 **languages and tools:**  
 
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/IntelliJ.png" /></a>
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/android.png"></a>
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/c.png"></a>
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/clion.png"></a>
+
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/cpp.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/c.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/csh.png"></a>
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/datagrip.png"></a>
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/eclipse.png"></a>
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/git.png"></a>
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/html.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/python.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/java.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/html.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/css.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/js.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/linux.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/clion.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/pycharm.png"></a>
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/python.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/datagrip.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/webstorm.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/rider.png"></a>
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/server.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/IntelliJ.png" /></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/android.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/sql.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/ue.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/unity.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/visual.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/eclipse.png"></a>
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/git.png"></a>
 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
