@@ -77,5 +77,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ![Visitors](https://komarev.com/ghpvc/?username=LeadEx13&color=green) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/LeadEx13) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LeadEx13)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 </div>
