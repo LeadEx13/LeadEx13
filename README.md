@@ -75,7 +75,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 | --- |
 | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeadEx13&hide=TeX&layout=compact&theme=gotham&hide_border=true) |
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=LeadEx13) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/LeadEx13) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LeadEx13)
 
