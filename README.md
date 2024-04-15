@@ -52,7 +52,7 @@ I am also an open-source enthusiast and maintainer. I am learning a lot from the
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/datagrip.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/webstorm.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/rider.png"></a>
-<a href="#"><img height="25" src="[https://vk-codes.com/assests/images/icons/IntelliJ.png](https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/IntelliJ.png?raw=true)" /></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/IntelliJ.png" /></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/android.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/sql.png"></a>
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/visual.png"></a>
