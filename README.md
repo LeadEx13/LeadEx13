@@ -9,16 +9,16 @@
   <img align="left" alt="Vlad's LinkedIn" width="27px" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/linkedin.png" />
 </a>
 <a href="https://discord.com/invite/2YgAt3QxXn">
-  <img align="left" alt="Vlad's Discord" width="27px" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/discord.png" />
+  <img align="left" alt="Vlad's Discord" width="27px" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/discord.png" />
 </a>
 <a href="https://trello.com/leadex13/activity">
-  <img align="left" alt="Vlad's | Trello" width="27px" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/trello.png" />
+  <img align="left" alt="Vlad's | Trello" width="27px" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/trello.png" />
 </a>
 <a href="https://steamcommunity.com/id/LeadEx">
-  <img align="left" alt="Vlad's Steam" width="27px" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/steam.png" />
+  <img align="left" alt="Vlad's Steam" width="27px" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/steam.png" />
 </a>
 <a href="https://www.patreon.com/LeadEx">
-  <img align="left" alt="Vlad's Patreon" width="27px" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/patreon.png" />
+  <img align="left" alt="Vlad's Patreon" width="27px" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/patreon.png" />
 </a>
 <br/>
 <br/>
@@ -36,28 +36,28 @@ I am also an open-source enthusiast and maintainer. I am learning a lot from the
 **Languages & Tools:**  
 
 
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/cpp.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/c.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/csh.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/python.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/java.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/html.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/css.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/js.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/linux.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/ue.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/unity.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/clion.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/pycharm.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/datagrip.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/webstorm.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/rider.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/IntelliJ.png" /></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/android.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/sql.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/visual.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/eclipse.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/git.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/cpp.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/c.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/csh.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/python.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/java.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/html.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/css.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/js.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/linux.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/ue.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/unity.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/clion.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/pycharm.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/datagrip.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/webstorm.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/rider.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/IntelliJ.png" /></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/android.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/sql.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/visual.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/eclipse.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/git.png"></a>
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
