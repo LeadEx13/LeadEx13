@@ -23,9 +23,9 @@
 <br/>
 <br/>
 
-Hi, I'm [Vlad Kelar](https://LeadEx13.github.io), a passionate self-taught full stack developer and a freelance software engineer from Israel. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Vlad Kelar](https://LeadEx13.github.io), a passionate software engineer and full-stack developer from Israel. I specialize in creating innovative and efficient software solutions, with a strong emphasis on clean architecture, robust code quality, and seamless user experiences. My expertise spans both front-end and back-end development, allowing me to bring ideas to life from concept to deployment.
 
-I am also an open-source enthusiast and maintainer. I am learning a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+With a deep commitment to continuous learning and improvement, I actively engage in open-source projects, contributing to and maintaining code that benefits the broader development community. The collaborative spirit of open-source has fueled my growth as a developer, and I’m dedicated to building and sharing tools that solve real-world problems.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
