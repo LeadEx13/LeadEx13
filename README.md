@@ -41,9 +41,9 @@ With a deep commitment to continuous learning and improvement, I actively engage
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/csh.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/python.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/java.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/html.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/css.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/js.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/react.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/Coralogix.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/datadog.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/linux.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/ue.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/unity.png"></a>
@@ -57,7 +57,9 @@ With a deep commitment to continuous learning and improvement, I actively engage
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/sql.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/visual.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/eclipse.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/git.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/chatgpt.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/Wireshark.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/postman.png"></a>
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
