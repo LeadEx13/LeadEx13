@@ -47,6 +47,7 @@ With a deep commitment to continuous learning and improvement, I actively engage
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/linux.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/ue.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/unity.png"></a>
+<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/chatgpt.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/clion.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/pycharm.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/datagrip.png"></a>
@@ -57,7 +58,6 @@ With a deep commitment to continuous learning and improvement, I actively engage
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/sql.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/visual.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/eclipse.png"></a>
-<a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/chatgpt.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/Wireshark.png"></a>
 <a href="#"><img height="25" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/postman.png"></a>
 
