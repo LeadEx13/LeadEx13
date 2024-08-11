@@ -6,7 +6,7 @@
  
  
  <a href="https://www.linkedin.com/in/LeadEx/">
-  <img align="left" alt="Vlad's LinkedIn" width="27px" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/linkedin.png" />
+  <img align="left" alt="Vlad's LinkedIn" width="27px" src="https://github.com/LeadEx13/LeadEx13.github.io/blob/main/assests/images/icons/linkedin.png" />
 </a>
 <a href="https://discord.com/invite/2YgAt3QxXn">
   <img align="left" alt="Vlad's Discord" width="27px" src="https://github.com/LeadEx13/Portfolio/blob/main/assests/images/icons/discord.png" />
